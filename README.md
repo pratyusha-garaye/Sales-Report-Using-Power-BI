@@ -9,3 +9,6 @@
 ## Tools and Technology used-
 #### 1. Microsoft Power BI
 #### 2. MS Excel
+
+## Images of dashboard 
+
