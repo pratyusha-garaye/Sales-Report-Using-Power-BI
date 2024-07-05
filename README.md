@@ -11,4 +11,6 @@
 #### 2. MS Excel
 
 ## Images of dashboard 
+<img width="1440" alt="Screenshot 2024-07-05 at 5 25 40 PM" src="https://github.com/pratyusha-garaye/Sales-Report-Using-Power-BI/assets/172596779/f5cceb98-4548-4393-98b9-467a86810674">
+
 
