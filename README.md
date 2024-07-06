@@ -1,5 +1,5 @@
 # Sales-Report-Using-Power-BI
-* I have created an interactive Power BI Sales Dashboard on AdventureWorks sales data and found some meaningful insights.
+* I have created an interactive Power BI Sales Dashboard on AdventureWorks sales data track KPIs (sales, revenue, profit, returns), compare regional performance, analyze product-level trends, and identify high-value customers.
 * The query editing was done in 'Microsoft SQL Server Management Studio'.
 * In order to build the dashboard, the data was extracted, transformed and loaded as required, with the use of Power query. DAX were used for creating the calculated measures and calculated column.
 * On finishing the calculations, I visualized the data using cards, charts, slicer etc. which helped in easy understanding from the user's end.
